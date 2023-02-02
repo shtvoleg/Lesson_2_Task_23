@@ -11,5 +11,3 @@ for (i = 1; i <= num; i++)
 {
     Console.Write($" {Math.Pow(i, 3)}");
 }
-// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
